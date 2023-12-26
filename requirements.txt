@@ -11,15 +11,7 @@ pydantic==1.9.0
 pymongo==4.1.1
 
 # Kafka Python client
-confluent-kafka==1.9.0
-
-# OpenSearch client
-opensearch-py==1.0.0
-
-# For testing
-pytest==7.1.1
-pytest-asyncio==0.18.3
-httpx==0.22.0
+# confluent-kafka==1.9.0
 
 # Dependency Injection
 # dependency-injector==4.35.2
